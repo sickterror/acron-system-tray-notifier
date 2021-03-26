@@ -1,1 +1,0 @@
-# acron-system-tray-notifier
