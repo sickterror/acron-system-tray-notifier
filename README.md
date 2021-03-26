@@ -1,5 +1,7 @@
 # acron-system-tray-notifier
 
+Kotlin shell app to run system-tray-notification on Windows computers
+
 Run by `java -jar acron-system-tray-notifier.jar -t "Test title" -m "Test message"`
 ## CLI
 Options:
